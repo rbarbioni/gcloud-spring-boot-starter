@@ -10,11 +10,11 @@
 - App Engine
 
 # Instructions
-
     Before run project, create Google Cloud Platform Free-Trial account
-    [Google Cloud Platform Free-Trial](https://cloud.google.com/free/)
----
+[Google Cloud Platform Free-Trial](https://cloud.google.com/free/)
 
+
+-----------------------------------------------------------------------
 #### Clone and build project
 
 ```shell
