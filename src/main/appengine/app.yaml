@@ -1,0 +1,8 @@
+runtime: java
+env: flex
+
+runtime_config:  # Optional
+  jdk: openjdk8
+
+manual_scaling:
+  instances: 1
